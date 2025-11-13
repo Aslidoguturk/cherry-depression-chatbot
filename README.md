@@ -5,7 +5,6 @@ It combines **Natural Language Processing (NLP)** techniques, **sentiment analys
 
 > ⚠️ *This project is for educational and research purposes only. It is **not a medical or diagnostic tool.***
 
----
 
 ## 🚀 Features
 - Chatbot interface built with **Streamlit**
@@ -15,7 +14,7 @@ It combines **Natural Language Processing (NLP)** techniques, **sentiment analys
 - Modular design with separate preprocessing, training, and testing scripts
 - Unit tests for major components
 
----
+
 
 ## 🧠 Tech Stack
 - **Language:** Python  
@@ -23,7 +22,7 @@ It combines **Natural Language Processing (NLP)** techniques, **sentiment analys
 - **Model:** Bi-LSTM with GloVe 100d embeddings  
 - **Dataset:** DAIC-WOZ / AVEC 2017 (used with permission — not included)
 
----
+
 
 ## ⚙️ How to Run Locally
 
