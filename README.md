@@ -67,3 +67,9 @@ To run the full pipeline, a user would need to:
 After that, they can run the Streamlit app (`cherryapp.py`) using their own data and model.
 
 
+## 📸 App Screenshots
+
+![Chatbot UI](images/cherry0.png)
+
+
+
