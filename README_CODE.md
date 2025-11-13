@@ -38,15 +38,11 @@ Contains unit and integration tests for core logic:
 
 ---
 
-## ▶️ How to Run Cherry Locally
 
-1. **Install dependencies**  
-   (Recommended: Use virtualenv or conda)  
-   ```bash
-   pip install -r requirements.txt
    
    ``bash
     py -m pip install streamlit
 
     .\venv\Scripts\python.exe -m streamlit run cherryapp.py
+
 
